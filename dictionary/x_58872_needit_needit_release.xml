@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="NeedIt Release" max_length="40" name="x_58872_needit_needit_release" sizeclass="1" type="collection">
+        <element label="Date" mandatory="true" max_length="40" name="u_date" type="glide_date"/>
+    </element>
+</database>
